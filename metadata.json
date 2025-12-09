@@ -1,0 +1,5 @@
+{
+  "name": "ArchiPlan AI",
+  "description": "Générateur de plans de maison et conseiller architectural intelligent utilisant Gemini Pro et Imagen.",
+  "requestFramePermissions": []
+}
